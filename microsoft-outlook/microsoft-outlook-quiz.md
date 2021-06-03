@@ -17,7 +17,7 @@ Can view when I'm busy. https://support.microsoft.com/en-us/office/share-an-outl
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 - [ ] Click New Items > New Appointment.
 - [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
-- [ ] with the email open, click Meeting on the Home ribbon or Message tab.
+- [X] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
@@ -34,7 +34,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 ```
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [X] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
@@ -59,23 +59,23 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] folder; category
 - [ ] flag; tag
 - [ ] category; flag
-- [ ] flag; category
+- [X] flag; category
 
 #### 10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
 - [ ] The task is nowhere, and no one is the owner.
-- [ ] The task is in your task list, and you are the owner.
+- [X] The task is in your task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and Nalia is the owner until she reassigns it to you.
 
 #### 11. What does Outlook automatically point out to you when you are invited to a meeting?
 - [ ] if your attendance is mandatory
-- [ ] ifthe meeting is high or low priority
+- [ ] if the meeting is high or low priority
 - [ ] the amount of time you have between this meeting and your next event
-- [ ] if the meeting is adjacent to another event in your calendar
+- [X] if the meeting is adjacent to another event in your calendar
 
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
-- [ ] an alert
+- [X] an alert
 - [ ] a notice
 - [ ] a bell icon
 
@@ -91,18 +91,18 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Filter
 - [ ] Junk Mail
 - [ ] The Delete Key
-- [ ] Clean Up Conversation
+- [X] Clean Up Conversation
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
-- [ ] Delivery receipt
+- [X] Delivery receipt
 - [ ] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
 
 #### 16. A message on your summary list appears with a paper clip icon and an arrow pointing to the left. What does this indicate?
 
-- [ ] The message has been replied to and contains an attachment
+- [X] The message has been replied to and contains an attachment
 - [ ] The message has been flagged and contains an attachment
 - [ ] None of these answers
 - [ ] The message has been forwarded and contains an attachment
@@ -229,7 +229,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 
 - [ ] B
 - [ ] C
-- [ ] A or B
+- [X] A or B
 - [ ] A
 
 #### 34. What permission allows your delegates to read, create, change, and delete items that they create, but not items that you created?
@@ -256,7 +256,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 37. When accepting a meeting invitation, what happens if you click "Do not send a response"?
 
 - [ ] Outlook will send an email to the meeting organizer on your behalf
-- [ ] The meeting organizer will not receive an email with your response, and your response will be recorded
+- [X] The meeting organizer will not receive an email with your response, and your response will be recorded
 - [ ] The meeting organizer will not receive an email with your response, and your response will not be recorded
 - [ ] None of these answers
 
@@ -272,16 +272,16 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] To keep track of personal events in a work setting
 - [ ] To use a shared calendar with colleagues
 - [ ] To isolate meetings and important dates for a project team
-- [ ] To have a different view of your calendar
+- [X] To have a different view of your calendar
 
 #### 39. Under what conditions can you successfully recall a message?
 
-- [ ] Only when the recipient is also using Outlook
+- [X] Only when the recipient is also using Outlook
 - [ ] Only if the email is plain text without attachments
-- [ ] If the email si still in your outbox
+- [ ] If the email is still in your outbox
 - [ ] If the email was sent within the past 24 hours
 
-#### 40. What rule can you create in View Settings to color code messages from a particular senderm such as your manager?
+#### 40. What rule can you create in View Settings to color code messages from a particular sender such as your manager?
 
 - [ ] Format Columns
 - [ ] Conditional Formatting

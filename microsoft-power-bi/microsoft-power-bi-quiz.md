@@ -196,7 +196,7 @@
 `CALCULATE(SUM([Sales]) ,DATESHTD([Date] ))`
 
 - [ ] running total sales in each month that starts over each month
-- [ ] total sales for the entire month
+- [x] total sales for the entire month
 - [ ] running total in entire year for the entire month
 - [ ] rolling average over 12 months of sales
 
@@ -211,13 +211,13 @@
 
 - [ ] landscape mode
 - [ ] none of these answers
-- [ ] Shrink to Fit
+- [x] Shrink to Fit
 - [ ] templates
 
 #### Q27. What should you use to highlight a specific visualization in a report?
 
 - [ ] Spotlight
-- [ ] Highlight
+- [x] Highlight
 - [ ] Magnify
 - [ ] None of the answers
 
@@ -233,7 +233,7 @@
 - [ ] Drill up
 - [ ] Drill down
 - [ ] Expand to next level
-- [ ] Collapse
+- [x] Collapse
 
 #### Q30. You have a treemap visualization that groups by sales territory. To allow users to further analyze data for a specific territory, what filter should you apply?
 

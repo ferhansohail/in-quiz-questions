@@ -544,7 +544,7 @@ D. They must have no duplicate data rows.
 
 - [ ] Filter
 - [ ] Editing
-- [ ] Reading
+- [x] Reading
 - [ ] Query
 
 #### Q69. What are the first steps you take to connect to an Access database data source in Power BI?
@@ -552,11 +552,11 @@ D. They must have no duplicate data rows.
 - [ ] You cannot to an Access database from Power BI.
 - [ ] Click **Reports > Database > Connect** in Power BI Desktop
 - [ ] Click **Get Data > Database > Access Database > Connect** in Power BI Service
-- [ ] Click **Get Data > Database > Access Database > Connect** in Power BI Desktop
+- [x] Click **Get Data > Database > Access Database > Connect** in Power BI Desktop
 
 #### Q70. What can you use Power BI for?
 
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] to create visualizations
 - [ ] to model data
 - [ ] to generate reports
@@ -566,25 +566,25 @@ D. They must have no duplicate data rows.
 - [ ] to transform data
 - [ ] to add members to your team or group
 - [ ] to grant permission to view a specific table
-- [ ] to relate tables
+- [x] to relate tables
 
 #### Q72. What do you call a visualization that has the single purpose of filtering other visuals in the view?
 
 - [ ] waterfall
 - [ ] none of these answers
 - [ ] ArcGIS visual
-- [ ] slicer
+- [x] slicer
 
 #### Q73. To share a dashboard and your comments from a mobile device, \_ the dashboard.
 
 - [ ] comment and share
-- [ ] annotate and share
+- [x] annotate and share
 - [ ] publish
 - [ ] team share
 
 #### Q74. In the Power Query Editor, you have selected multiple columns. How do you set them all to the Whole Number data type?
 
-- [ ] Click **Data Type Any** and select **Whole Number**.
+- [x] Click **Data Type Any** and select **Whole Number**.
 - [ ] Select **Group By** and select **Whole Number**.
 - [ ] Right-click the primary key and select **Whole Number**.
 - [ ] Right-click any column and select **Format Data**
@@ -599,7 +599,7 @@ D. They must have no duplicate data rows.
 #### Q76. What are the first steps to connect to a data table on Wikipedia from Power BI Desktop?
 
 - [ ] **Get Data > OData feed > Web URL**
-- [ ] **Get Data > Web > Enter Web URL**
+- [x] **Get Data > Web > Enter Web URL**
 - [ ] **Get Data > Web Table > Enter Web URL**
 - [ ] **Get Data > Data Source > Enter Web URL**
 
@@ -622,7 +622,7 @@ D. They must have no duplicate data rows.
 - [ ] all of these answers.
 - [ ] Work offline.
 - [ ] Create data models.
-- [ ] Add DAX calculations.
+- [x] Add DAX calculations.
 
 #### Q80. What does the Power BI Advanced Editor allow you to do? (Select all that apply.)
 
@@ -633,7 +633,7 @@ D. They must have no duplicate data rows.
 
 - [ ] A, B
 - [ ] A,B,C,D
-- [ ] B,C,D
+- [x] B,C,D
 - [ ] A,B,C
 
 #### Q81. Why might you use the DAX DIVIDE function rather than a forward slash (/) when creating a measure? (Select all that apply.)
@@ -646,4 +646,4 @@ D. They must have no duplicate data rows.
 - [ ] A,B,C,D
 - [ ] A,B
 - [ ] B,C
-- [ ] A
+- [x] A
